@@ -1,0 +1,47 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Anastasia Polda
+  # - Anastasia.Polda@state.mn.us
+  # - Newport
+  # - Ipswich IP3 5RT
+subject: "Analytics and Insights Supervisor position (Job ID: 83720) at Minnesota Department of Children, Youth, and Families"
+subject-title: "Subject"
+opening: "Dear Eric,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Department of Children, Youth, and Families (DCYF) Office of Inspector General (OIG) Analytics and Insights Supervisor position. With over seven years of experience managing analytical projects in Minnesota human services and demonstrated expertise in data governance, team leadership, and technical implementation, I am well-qualified to lead a team in OIG's data analytics office.
+
+In my current role as Program Evaluator at the U.S. Office of Personnel Management, I lead the evaluation team's transition to advanced data analysis tools, establishing team infrastructure and developing standard operating procedures. I've successfully implemented technical training programs and developed comprehensive team development plans based on skill assessments and strategic needs.
+
+My experience at the Minnesota Department of Human Services is particularly relevant to this position. As a Research Scientist, I analyzed data from multiple sources including MAXIS, EMC^2^, WorkForceOne, and others in the data warehouse, and developed the [Self-Support Index](https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/economic-supports-cash-food/), the statewide performance measure of the Minnesota Family Investment Program. I served on the [Early Childhood Longitudinal Data System (ECLDS)](https://eclds.mn.gov/) Data and Research Committee, working across agencies to integrate and analyze early childhood data. I also have extensive experience with Salesforce from my time at the [Massachusetts Institute of Technology Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/), where I supported the development and management of information systems. My technical skills align perfectly with your needs:
+
+-   Extensive R programming experience, including package development and training
+
+-   SQL expertise for large-scale data extraction and analysis
+
+-   Proven experience with visualization tools like R, Shiny, Quarto, and Tableau
+
+-   Strong understanding of data privacy laws and the Minnesota Government Data Practices Act
+
+Additionally, I completed Minnesota's [Emerging Leaders Institute](https://mn.gov/mmb/etd/course-search/?id=1059-202968) in 2019, demonstrating my commitment to developing leadership skills and understanding state government operations. I am excited about the opportunity to build and lead an analytics team at DCYF's Office of Inspector General. My combination of technical expertise, leadership experience, and deep understanding of Minnesota human services programs makes me an ideal candidate for this role.
+
+Thank you for considering my application. I look forward to discussing how I can contribute to DCYF's mission of supporting children and families in Minnesota.

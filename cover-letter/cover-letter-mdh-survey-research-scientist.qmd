@@ -1,0 +1,53 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Anastasia Polda
+  # - Anastasia.Polda@state.mn.us
+  # - Newport
+  # - Ipswich IP3 5RT
+subject: "Senior Survey Research Scientist position (Job ID: 81377) at Minnesota Department of Health"
+subject-title: "Subject"
+opening: "Dear Stefan Gildemeister,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Senior Survey Research Scientist position at the Minnesota Department of Health (MDH). With seven years of research and analysis experience in Minnesota state government, combined with extensive experience in survey research and academic partnerships, I believe I am an excellent fit for this role.
+
+At the Minnesota Department of Human Services (MN DHS), I managed the [Self-Support Index](https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/economic-supports-cash-food/), a statewide performance measure for the Minnesota Family Investment Program. This work involved sophisticated predictive modeling, cross-county coordination, and extensive use of R and SQL for data analysis---skills directly applicable to the Minnesota Health Access Survey. I served on the [Early Childhood Longitudinal Data System (ECLDS)](https://eclds.mn.gov/) Data and Research Committee, working across agencies to integrate and analyze early childhood data. I also authored multiple public-facing reports and created interactive dashboards using Shiny and Tableau to communicate complex findings to diverse audiences.
+
+As Research and Training Manager at the [Massachusetts Institute of Technology Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/) (J-PAL), I developed strong partnerships between academic institutions, government agencies, and nonprofits. These collaborations continued through my work with researchers from the University of Minnesota, Indiana University, and the Minneapolis Federal Reserve while at MN DHS. I've demonstrated success in translating complex technical information through numerous publications and presentations, including preparing critical analyses for state leadership during the pandemic response.
+
+My key qualifications include:
+
+-   Advanced R and SQL programming for large dataset analysis
+
+-   Creating interactive dashboards and data visualizations
+
+-   Managing complex longitudinal research projects
+
+-   Coordinating multi-stakeholder research initiatives
+
+-   Presenting technical findings to diverse audiences, from public forums to state leadership
+
+-   Developing and maintaining research partnerships across institutions
+
+The position's focus on healthcare access and coverage aligns perfectly with my background in social services research and program evaluation. I understand the critical importance of rigorous research methods in informing policy decisions that affect Minnesotans' lives. My experience working across state agencies and with diverse stakeholders would be valuable in maintaining and strengthening the research partnership between MDH and the University of Minnesota.
+
+I am excited about the opportunity to contribute to this important work at MDH and would welcome the chance to discuss how my skills and experience align with your needs. Thank you for considering my application.

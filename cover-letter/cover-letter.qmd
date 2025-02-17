@@ -1,0 +1,51 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Anastasia Polda
+  # - Anastasia.Polda@state.mn.us
+  # - Newport
+  # - Ipswich IP3 5RT
+subject: "Results Coordinator position (Job ID: 83374) at Minnesota Management and Budget"
+subject-title: "Subject"
+opening: "Dear Anastasia,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Results Coordinator position (Job ID: 83374) at Minnesota Management and Budget. With over a decade of experience in program evaluation, data analysis, and public service, I am well-positioned to contribute to MMB's mission of improving outcomes for Minnesotans through evidence-based decision making.
+
+As a current Program Evaluator at the U.S. Office of Personnel Management, I lead complex evaluations that directly inform policy decisions. I implement results-based accountability frameworks to measure program effectiveness and create compelling data visualizations using R to communicate findings. I recently conducted causal analysis to evaluate the effect of remote status on federal hiring, which I presented to MMB leadership last fall. My active participation in the Evaluation Officers Council (EOC) and Interagency Council on Evaluation Policy (ICEP) has strengthened my ability to drive evaluation practices across the federal government.
+
+As a Research Scientist at the Minnesota Department of Human Services, I gained deep insight into Minnesota state government operations while coordinating multiple initiatives. I developed and maintained the Self-Support Index, a statewide performance measure for MFIP. I served on the Early Childhood Longitudinal Data System (ECLDS) Data and Research Committee, provided technical assistance through the Minnesota 2-Generation Policy Network, and led the TANF Data Collaborative to increase data analysis capacity across county governments. Earlier in my career at MIT's J-PAL, I managed the Agricultural Technology Adoption Initiative, overseeing multi-million dollar research grants across multiple countries and institutions.
+
+Throughout my career, I have effectively communicated research findings through presentations at international conferences, local workshops for Minnesota county staff, and publications analyzing complex policy issues like income variability among families receiving cash assistance.
+
+Key qualifications I would bring to this role include:
+
+-   Deep experience with performance measurement frameworks and results-based accountability
+
+-   Advanced skills in data analysis and visualization using R
+
+-   Proven project management expertise in leading complex, multi-stakeholder initiatives
+
+-   Demonstrated ability to facilitate large groups and foster collaboration in culturally appropriate ways
+
+-   Deep knowledge of Minnesota state government and public program operations
+
+I look forward to discussing how my skills and experience align with MMB's needs. Thank you for considering my application.

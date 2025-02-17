@@ -1,0 +1,53 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Anastasia Polda
+  # - Anastasia.Polda@state.mn.us
+  # - Newport
+  # - Ipswich IP3 5RT
+subject: "Senior Researcher - Administrative Data Linking at Chapin Hall"
+subject-title: "Subject"
+opening: "Dear Hiring Manager,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Senior Researcher position focused on Administrative Data Linking at Chapin Hall. With over a decade of experience analyzing administrative data to inform policy decisions, I believe my background aligns perfectly with Chapin Hall's mission.
+
+My qualifications directly match your requirements:
+
+-   Education: Bachelor's in Mathematics and Master's in International Affairs, exceeding the minimum requirement of a master's degree plus five years of experience
+
+-   10+ years of direct experience managing and analyzing large administrative datasets
+
+-   Extensive experience developing statistical models, including predictive modeling and causal analysis using matching methods
+
+-   Strong programming skills in R, SQL, GitHub, and Azure DevOps
+
+-   Expertise in data visualization using Tableau and Shiny
+
+-   Proven track record of managing complex data projects across multiple organizations
+
+At the U.S. Office of Personnel Management, I design and implement rigorous quantitative evaluations using administrative data. I developed and conducted a causal analysis using statistical matching to evaluate [how remote work designations affect applicant interest and hiring outcomes in Federal jobs](https://www.opm.gov/about-us/reports-publications/agency-reports/brief-on-the-effect-of-the-remote-work-designation-on-hiring/). I also lead the evaluation unit's transition to advanced data analysis tools including R and GitHub.
+
+At the Minnesota Department of Human Services, I developed and maintained the [Self-Support Index](https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/economic-supports-cash-food/), a statewide performance measure that required extracting and merging multiple administrative datasets and developing predictive models. I collaborated with the Minneapolis Federal Reserve on their [minimum wage study](https://www.minneapolisfed.org/topic/minimum-wage). As Minnesota's representative to the [TANF Data Collaborative](https://www.mdrc.org/sites/default/files/img/pilotprofile_mn_jan2023.pdf), I worked closely with Chapin Hall and other partners to increase data analysis capacity across state and county governments. I was also an active member of Minnesota's [Early Childhood Longitudinal Data System (ECLDS)](https://eclds.mn.gov/), working to integrate data across state agencies.
+
+At the [Massachusetts Institute of Technology Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/) (J-PAL), I coordinated complex research initiatives between academic researchers, government policymakers, and practitioners. As Senior Research and Training Manager, I managed partnerships between research teams, government agencies, and implementing organizations, ensuring effective communication of research findings and facilitating the translation of academic research into actionable policy recommendations.
+
+Thank you for considering my application. I look forward to discussing how my skills and experience could contribute to Chapin Hall's important work improving outcomes for children, youth, and families.
