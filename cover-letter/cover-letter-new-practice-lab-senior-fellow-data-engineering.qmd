@@ -1,0 +1,43 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Anastasia Polda
+  # - Anastasia.Polda@state.mn.us
+  # - Newport
+  # - Ipswich IP3 5RT
+subject: "Senior Fellow - Data Engineering, New Practice Lab"
+subject-title: "Subject"
+opening: "Dear Hiring Manager,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Senior Fellow - Data Engineering position with the New Practice Lab. With over a decade of experience working at the intersection of data, policy implementation, and public service delivery, I am excited about the opportunity to contribute to your mission of improving benefits outcomes for economically excluded families.
+
+In my current role as a Program Evaluator at the U.S. Office of Personnel Management, I am leading our evaluation team's transition to advanced data analysis tools, establishing team infrastructure, and developing standard operating procedures - experiences directly relevant to the Lab's goal of embedding data engineering practices into policy delivery work.
+
+My experience at the Minnesota Department of Human Services particularly resonates with your mission. There, I developed and maintained the Self-Support Index, a statewide performance measure for the Minnesota Family Investment Program. This work required me to architect data systems that merged multiple data sources, develop predictive models, and create strong feedback loops between policy implementation and outcomes. I also served as a member of the Early Childhood Longitudinal Data System (ECLDS), working to make aggregate data on children from birth to third grade accessible across state agencies.
+
+What especially draws me to this role is the New Practice Lab's commitment to building tighter links between policymakers, civil servants, and the families they serve. I've demonstrated this commitment through collaborations with diverse partners, including working with the Minneapolis Federal Reserve on minimum wage research and coordinating Minnesota's participation in the TANF Data Collaborative to increase data analysis capacity at both state and county levels.
+
+I am particularly excited about the opportunity to apply my experience leading data modeling conversations with diverse stakeholders. At both OPM and DHS, I've worked extensively with cross-functional teams including policy experts, researchers, and program staff to translate complex data concepts into actionable insights. This aligns perfectly with the Lab's collaborative approach to improving benefits delivery.
+
+I would welcome the opportunity to discuss how my background in data engineering, public sector experience, and commitment to improving government services could contribute to the New Practice Lab's goal of improving outcomes for 3 million Americans by 2026.
+
+Thank you for considering my application.

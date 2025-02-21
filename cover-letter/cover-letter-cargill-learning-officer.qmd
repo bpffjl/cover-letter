@@ -1,0 +1,41 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Margaret A. Cargill Philanthropies
+  # - Anastasia.Polda@state.mn.us
+  - 6889 Rowland Road
+  - Eden Prairie, MN 55344
+subject: "Evaluation and Organizational Learning Officer Position"
+subject-title: "Subject"
+opening: "Dear Hiring Committee,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Evaluation and Organizational Learning Officer position at Margaret A. Cargill Philanthropies (MACP). With over a decade of experience in program evaluation, data analysis, and organizational learning across government, nonprofit, and academic sectors, I am excited about the opportunity to contribute to MACP's mission of making lasting differences for communities.
+
+In my current role as Program Evaluator at the United States Office of Personnel Management (OPM), I lead complex evaluation projects that demonstrate many of the key qualifications you seek. I conduct causal analysis using statistical matching techniques, collaboratively design evaluation studies, and regularly present findings to internal teams, external partners, and government leadership. I've successfully led the evaluation team's transition to advanced data analysis tools while establishing team infrastructure and developing standard operating procedures - skills that align directly with MACP's needs.
+
+My experience at the Minnesota Department of Human Services is particularly relevant, where I developed the Self-Support Index, a statewide performance measure for the Minnesota Family Investment Program. This work required close collaboration with state and local officials, sophisticated data analysis, and clear communication of complex findings to diverse audiences - all skills central to the Learning Officer role. I also have extensive experience training others, having reached over 300 staff members through various training initiatives.
+
+My background in both domestic and international development work, including roles at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and various global organizations, has given me valuable perspective on evaluation and learning in different cultural contexts. This global experience, combined with my strong Minnesota roots, positions me well to support MACP's local and international work while advancing your commitment to diversity, equity, inclusion, and justice.
+
+I am particularly drawn to MACP's thoughtful approach to grantmaking and your commitment to building long-term relationships with grantee organizations. Your focus on overlooked causes and emphasis on learning resonates strongly with my professional values and experience.
+
+Thank you for considering my application. I look forward to discussing how my skills and experience could contribute to MACP's evaluation and learning goals.
