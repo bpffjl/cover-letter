@@ -1,0 +1,51 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 2415 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  # - Margaret A. Cargill Philanthropies
+  # - Anastasia.Polda@state.mn.us
+  # - 6889 Rowland Road
+  # - Eden Prairie, MN 55344
+subject: "Application for Weatherization Assistance Program Data Analyst - Job ID 83741"
+subject-title: "Subject"
+opening: "Dear Hiring Manager,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Weatherization Assistance Program Data Analyst position with the Minnesota Department of Commerce. With over a decade of experience in quantitative analysis, statistical modeling, and program evaluation in public service, I am well-positioned to help the Weatherization Assistance Program maximize its impact through data-driven insights and rigorous analysis.
+
+In my current role as a Program Evaluator at the U.S. Office of Personnel Management, I design and conduct complex statistical analyses, including causal analysis using statistical matching techniques, to evaluate federal programs. I've successfully translated these analytical findings into actionable recommendations, presenting results to agency leadership and external partners to drive program improvements.
+
+As a Research Scientist at the Minnesota Department of Human Services, I developed and maintained the Self-Support Index, a sophisticated performance measure for the Minnesota Family Investment Program. This work involved using R and SQL to analyze large administrative datasets, building predictive models, and creating data infrastructure to support program operations. I also led the transition from static PDF reports to interactive dashboards, demonstrating my ability to make complex data accessible and actionable for decision-makers.
+
+My strong quantitative background includes:
+
+-   Designing and implementing statistical analyses using R, SQL, and other advanced tools
+
+-   Building predictive models for program performance assessment
+
+-   Creating data infrastructure to support large-scale program implementation
+
+-   Developing automated reporting systems and interactive dashboards
+
+-   Managing complex datasets and implementing data quality controls
+
+I am particularly drawn to this role because it combines my analytical expertise with the opportunity to support Minnesota's climate resilience and energy conservation efforts. My experience implementing data systems for Emergency SNAP and Pandemic EBT programs, which provided over \$90 million in assistance to Minnesota families, has given me valuable insight into using data analytics to improve program delivery for low-income households.
+
+Thank you for considering my application. I look forward to discussing how my quantitative skills and experience can help advance the mission of the Weatherization Assistance Program.
