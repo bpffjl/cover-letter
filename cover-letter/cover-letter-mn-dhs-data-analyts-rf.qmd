@@ -1,0 +1,53 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Dr. Susan Snyder
+  - Minnesota Department of Human Services
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Data Analyst Position (Job ID: 84290)"
+subject-title: "Subject"
+opening: "Dear Dr. Snyder,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my interest in the Data Analyst position. With seven years of experience in Minnesota's public assistance programs, my background makes me uniquely qualified for this role.
+
+As a Research Scientist and Agency Policy Specialist at DHS, my work involved developing knowledge of Minnesota's public assistance systems, particularly MFIP, Minnesota's TANF program. This experience directly aligns with the responsibilities outlined in the job description.
+
+My work with the DHS Data Warehouse spans data requests, analysis, and reports. I've developed knowledge of the MAXIS data model by exploring the MAXIS mainframe. Experience using the MFIP model database for Federal TANF reporting has prepared me for the technical aspects of this position. Troubleshooting data models has involved exploring source systems and collaborating with experts to ensure data accuracy.
+
+My technical skills include extracting data using SQL and R to develop data models. While my expertise is with R, experience with SAS code gives me versatility.
+
+My experience includes designing data collection methods for the Self-Support Index, creating data infrastructure for Emergency SNAP and Pandemic EBT programs, and producing MFIP performance measures. I've translated technical information for management, collaborated with federal agencies, ensured compliance with reporting requirements, and generated data for budget forecasts.
+
+Additional strengths include:
+
+-   Designing data models in relational databases
+
+-   Ensuring data quality and compliance
+
+-   Managing multiple projects within timeframes
+
+-   Working effectively with diverse teams
+
+I'm excited to continue serving Minnesotans through this position as DHS transitions some functions to the new Department of Children, Youth, and Families.
+
+Thank you for your consideration. I look forward to discussing my qualifications further.
