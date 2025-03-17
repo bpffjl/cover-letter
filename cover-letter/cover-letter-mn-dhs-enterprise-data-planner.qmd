@@ -1,0 +1,50 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Wendy Weisner
+  # - 540 Cedar Street
+  - Minnesota Department of Human Services
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Enterprise Data Planner (Job ID: 84522)"
+subject-title: "Subject"
+opening: "Dear Ms Weisner,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my strong interest in the Enterprise Data Planner position (Job ID: 84522) with the Minnesota Department of Human Services. With my extensive experience in data governance, project management, and cross-agency collaboration, I am confident in my ability to strengthen the enterprise data management infrastructure within your organization.
+
+As a Program Evaluator with the U.S. Office of Personnel Management and former Research Scientist and Agency Policy Specialist with the Minnesota Department of Human Services, I have demonstrated expertise in leading data initiatives that create meaningful value for clients and the organization. My experience includes:
+
+-   Leading causal analysis studies and evaluating the effects of policy changes, including a study on remote work that I presented to internal and external partners
+
+-   Developing strategic evaluation planning through performance measurement workshops and comprehensive research inventories
+
+-   Leading team transitions to advanced data analysis tools (R, GitHub, Azure DevOps), establishing infrastructure, and developing standard operating procedures
+
+-   Building relationships across multiple levels of government, universities, foundations, and non-profits
+
+-   Creating and maintaining critical data infrastructure for programs that provided more than \$90 million in benefits to Minnesota families
+
+During my seven years at the Minnesota Department of Human Services, I gained significant knowledge of human services data, programs, and systems while producing the Self-Support Index, the statewide performance measure for the Minnesota Family Investment Program. My work included extracting state administrative data, merging with other data sources, and developing predictive models, all of which align perfectly with the requirements of this position.
+
+I am particularly skilled at fostering collaboration across departments and agencies, having served as project coordinator for Minnesota's participation in the TANF Data Collaborative to increase data analysis capacity. My background in building technical infrastructure combined with my experience communicating complex data insights to diverse audiences would enable me to effectively connect and strengthen the enterprise data management infrastructure at DHS.
+
+I am excited about the opportunity to bring my data management experience back to the Minnesota Department of Human Services in this strategic planning role. Thank you for considering my application. I look forward to discussing how my skills align with your needs.

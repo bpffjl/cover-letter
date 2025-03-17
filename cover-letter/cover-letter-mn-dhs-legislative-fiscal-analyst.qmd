@@ -1,0 +1,52 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Cortney Jones
+  - 540 Cedar Street
+  - Minnesota Department of Human Services
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Legislative Fiscal Analysis Lead position (Job ID: 83939)"
+subject-title: "Subject"
+opening: "Dear Ms. Jones,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my interest in the Legislative Fiscal Analysis Lead position (Job ID: 83939) with the Minnesota Department of Human Services. My experience in program evaluation, data-driven research, and collaborative leadership across the human services sector has prepared me to make significant contributions to the Aging and Disability Services Administration.
+
+At the Minnesota Department of Human Services (2016-2023), I designed and maintained the Self-Support Index for the Minnesota Family Investment Program, developing predictive models of county performance. I merged administrative datasets, performed advanced statistical analysis, and communicated findings to program leadership, county officials, and legislative staff. While my roles have not centered on fiscal analysis, I provided data to colleagues for estimating fiscal impacts of MFIP program changes, including the switch to six month reporting and sanction reform.
+
+As a Program Evaluator at the U.S. Office of Personnel Management, I have strengthened my expertise in designing sophisticated program evaluations and research studies, including a causal analysis on the effect of remote work designations on federal hiring outcomes.
+
+My qualifications align well with this position's requirements:
+
+-   Strong statistical methods expertise from my mathematics background and professional experience
+
+-   Proven success leading cross-divisional projects with diverse partners
+
+-   Experience developing and leading technical training programs, including R for data science
+
+-   Deep understanding of Minnesota's public assistance programs and evaluation frameworks
+
+-   Proficiency with data analysis tools (R, SQL, GitHub) and complex statistical modeling
+
+I am excited about applying my analytical skills and program knowledge to help the Aging and Disability Services Administration effectively manage Medical Assistance long-term services and support programs. I am eager to expand my expertise in fiscal analysis while contributing to policy decisions that improve Minnesotans' well-being.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background aligns with your needs.

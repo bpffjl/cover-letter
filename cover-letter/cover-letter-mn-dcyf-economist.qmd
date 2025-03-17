@@ -1,0 +1,46 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Amy John
+  # - 540 Cedar Street
+  - Minnesota Department of Children, Youth, and Families
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Economist/Research Plan & Evaluation Director (Job ID: 84435) "
+subject-title: "Subject"
+opening: "Dear Ms. John,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to express my interest in the Economist/Research Plan & Evaluation Director position (Job ID: 84435) with the Department of Children, Youth, and Families. With extensive experience in program evaluation, economic analysis, and data-driven policy development, I am well-positioned to contribute to DCYF's mission of advancing equitable outcomes for Minnesota's children, youth, and families.
+
+My background directly aligns with the responsibilities outlined in the job description. As a Program Evaluator at the U.S. Office of Personnel Management, I conducted causal analysis using statistical matching methods, developed evaluation frameworks, and collaborated with federal evaluation leaders. Previously, as a Research Scientist at the Minnesota Department of Human Services, I produced the Self-Support Index for the Minnesota Family Investment Program, using R and SQL to extract administrative data, merge sources, and develop predictive models of county performance.
+
+My experience specifically addresses the key responsibilities of this position:
+
+-   Budget forecasting and fiscal analysis: I provided data to estimate cost changes potentially caused by program modifications to MFIP, including six-month reporting and sanction reform. I developed performance measures for forecasted programs and analyzed administrative data to support policy decisions with fiscal implications.
+
+-   Technical expertise on economic issues: At the Abdul Latif Jameel Poverty Action Lab (housed in the MIT Economics Department), I had the privilege of working with some of the most respected economists in the world, including several Nobel laureates. This experience enhanced my ability to apply economic principles to policy evaluation and program design.
+
+-   Data systems and methodology support: I transitioned reports from PDFs to interactive dashboards, established data infrastructure for assistance programs, and led evaluation teams in adopting advanced data analysis tools.
+
+I bring leadership experience through my roles coordinating Minnesota's participation in the TANF Data Collaborative, serving as co-chair for NAWRS, and managing initiatives at the Abdul Latif Jameel Poverty Action Lab. My educational background includes a Bachelor of Science in Mathematics and a Master of Pacific/International Affairs, complemented by specialized training in applied data analysis and project management.
+
+I am excited about the opportunity to support DCYF's work on programs critical to Minnesota families, including MFIP, SNAP, Northstar Care, and Child Care Assistance. I look forward to discussing how my skills and experience can contribute to the department's mission.
