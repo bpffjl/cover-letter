@@ -1,0 +1,52 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Dr Laura Potter 
+  - 540 Cedar Street
+  - Minnesota Department of Human Services
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Evaluation Coordinator position (Job ID: 84710)"
+subject-title: "Subject"
+opening: "Dear Dr. Potter,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to apply for the Evaluation Coordinator position (Job ID: 84710) with the Minnesota Department of Human Services. With my extensive experience in program evaluation and data analysis within human services contexts, I am eager to contribute to DHS's mission of improving outcomes for Minnesotans.
+
+As a Program Evaluator at the U.S. Office of Personnel Management, I have conducted causal analysis using statistical matching methods, presented findings to executive leadership, and collaborated with evaluation leaders through the Evaluation Officers Council. I have driven strategic evaluation planning through performance measurement workshops, comprehensive research inventories, and evaluation capacity assessment tools—skills directly applicable to the responsibilities of the Evaluation Coordinator role.
+
+My previous experience at the Minnesota Department of Human Services as a Research Scientist and Agency Policy Specialist provided me valuable knowledge of DHS programs, operations, and partnerships with counties and Tribal Nations. I developed the Self-Support Index performance measure for the Minnesota Family Investment Program, trained state and local officials on evaluation methodologies, and collaborated with external research partners including the Minneapolis Federal Reserve and multiple universities.
+
+My qualifications align well with your requirements:
+
+-   Experience designing and implementing program evaluation methodologies
+
+-   Strong ability to analyze, interpret, and communicate complex data in accessible ways
+
+-   Expertise in developing logic models and program roadmaps
+
+-   Established record of leading cross-functional analytics projects
+
+-   Experience working effectively with senior leaders across government
+
+I am particularly skilled at building relationships with partners to develop program evaluations that lead to actionable recommendations. My experience with diverse communities and my commitment to equity in evaluation would support DHS's strategic priorities.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my evaluation expertise can help improve accountability and outcomes across Minnesota's human services system.
