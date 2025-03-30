@@ -1,0 +1,52 @@
+---
+author:
+  - name: Ben Jaques-Leslie
+    affiliation:
+      - name: Ben Jaques-Leslie
+        department: 3420 39th Ave South, Minneapolis, MN
+        address: benjaminjaques@gmail.com
+        city: 919-928-3650
+        # country: best one
+        # postal-code: 55406
+address:
+  - Dr Laura Potter 
+  - 540 Cedar Street
+  - Minnesota Department of Human Services
+  - St. Paul, MN
+  # - Eden Prairie, MN 55344
+subject: "Application for Strategic Analytics Specialist position (Job ID: 84744)"
+subject-title: "Subject"
+opening: "Dear Dr. Potter,"
+closing: "Sincerely,"
+# cc:
+#   - Recipient 1
+#   - Recipient 2
+# encl:
+#   - Enclosure 1
+#   - Enclosure 2
+# ps: |
+  # PS: Lorem ipsum dolor sit amet, *consecteturadipiscing elit.
+format: letter-pdf
+---
+
+I am writing to apply for the Strategic Analytics Specialist position (Job ID: 84744) with the Minnesota Department of Human Services. With over seven years of experience in analytics, program evaluation, and data visualization within human services contexts, I am excited about the opportunity to contribute to DHS's mission of improving the well-being of Minnesotans.
+
+As a Program Evaluator at the U.S. Office of Personnel Management, I conducted causal analysis using statistical matching to evaluate remote work impacts, presented findings to both internal and external audiences, and led the transition to advanced data analysis tools. My experience aligns perfectly with your needs for someone who can navigate complex data systems and provide technical expertise to align agency-wide data management with business needs.
+
+Previously, as a Research Scientist and Agency Policy Specialist at the Minnesota Department of Human Services, I produced the Self-Support Index for the Minnesota Family Investment Program using R and SQL to extract state administrative data, develop predictive models, and create performance measures. I collaborated with external research partners including the Minneapolis Federal Reserve and multiple universities, demonstrating my ability to engage both internal and external partners to improve program performance and outcomes.
+
+My technical expertise includes:
+
+-   Expert-level knowledge of R and SQL
+
+-   Working knowledge of data visualization tools such as Tableau and Power BI
+
+-   Experience extracting, interpreting, and presenting complex data to inform strategic decisions
+
+-   Strong background in developing trust and relationships with partners and clients
+
+-   Proven ability to lead large-scale projects and cross-functional teams
+
+I am particularly drawn to this role because it would allow me to continue serving Minnesotans while leveraging my data expertise to improve accountability and decision-making across the administration. My knowledge of DHS programs and systems would enable me to make an immediate impact in this position.
+
+Thank you for considering my application. I look forward to discussing how my experience and skills can contribute to your team's important work.
